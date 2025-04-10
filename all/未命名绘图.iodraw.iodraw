@@ -99,7 +99,13 @@
           <mxGeometry x="155" y="320" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-61" target="t0p8CJE-LMbZ0rTMlWHT-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="490" />
+              <mxPoint x="60" y="260" />
+              <mxPoint x="309" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-61" value="获取到测试运行文件，进行测试结果处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="460" width="320" height="60" as="geometry" />
