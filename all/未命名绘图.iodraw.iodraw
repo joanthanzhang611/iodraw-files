@@ -102,7 +102,12 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-40" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249" y="-140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-41" value="通过编译型号使用指定命令和环境来编译版本&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-41" value="通过编译型号使用指定命令和环境来编译版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="-250" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
