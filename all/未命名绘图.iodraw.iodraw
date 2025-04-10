@@ -98,11 +98,11 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-55" value="在测试脚本最后启动ssh连接、网络ip获取等进程&lt;div&gt;&lt;div&gt;上报请求，唤醒自动化后续流程&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="320" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-61" target="t0p8CJE-LMbZ0rTMlWHT-47">
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-61" target="t0p8CJE-LMbZ0rTMlWHT-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="490" />
-              <mxPoint x="60" y="20" />
+              <mxPoint x="60" y="129" />
             </Array>
           </mxGeometry>
         </mxCell>
