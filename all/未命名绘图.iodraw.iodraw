@@ -125,11 +125,17 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-47" value="升级成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="219" y="-20" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-50" target="t0p8CJE-LMbZ0rTMlWHT-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-50" value="通过指定测试项，将测试脚本拉取到测试设备中，运行测试脚本" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="179" y="90" width="261" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-52" value="测试脚本内容，在测试进行前&lt;div&gt;将测试之外的进程全部关闭&lt;/div&gt;&lt;div&gt;如ssh连接，ip获取等测试无关进程&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="70" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-53" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="200" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
