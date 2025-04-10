@@ -105,14 +105,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-40" value="准备一个可以远程连接的设备，连接之后对设备进行升级" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="-90" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="-140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="t0p8CJE-LMbZ0rTMlWHT-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="-180" as="targetPoint" />
             <mxPoint x="330" y="-220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="330" y="-120" />
+              <mxPoint x="310" y="-220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -122,8 +122,11 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-47" target="t0p8CJE-LMbZ0rTMlWHT-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-47" target="t0p8CJE-LMbZ0rTMlWHT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-47" value="升级成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="-90" width="180" height="80" as="geometry" />
+          <mxGeometry x="230" y="-10" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
