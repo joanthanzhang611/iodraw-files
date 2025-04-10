@@ -87,9 +87,13 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-30" value="指定分支提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-36">
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-36" target="t0p8CJE-LMbZ0rTMlWHT-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="309" y="-220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="309" y="-250" />
+              <mxPoint x="310" y="-250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-36" value="commit信息里填入测试项和指定编译型号&lt;br&gt;&lt;div&gt;触发&lt;span style=&quot;background-color: initial;&quot;&gt;持续集成流程&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -97,6 +101,9 @@
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-40" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="249" y="-260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
