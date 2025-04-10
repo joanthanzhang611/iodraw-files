@@ -109,8 +109,8 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-61" value="获取到测试运行文件，进行测试结果处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="460" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-64" value="进入下一个测试项的测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="245" width="160" height="30" as="geometry" />
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-64" value="进入下一个&lt;div&gt;测试项的测试&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="205" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
