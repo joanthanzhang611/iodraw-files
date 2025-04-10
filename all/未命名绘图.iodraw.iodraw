@@ -85,7 +85,7 @@
           <mxGeometry x="180" y="20" width="261" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-52" value="测试脚本内容，在测试进行前&lt;div&gt;将测试之外的进程全部关闭&lt;/div&gt;&lt;div&gt;如ssh连接，ip获取等测试无关进程&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="70" width="50" height="100" as="geometry" />
+          <mxGeometry x="440" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-53" target="t0p8CJE-LMbZ0rTMlWHT-55">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="490" />
-              <mxPoint x="60" y="129" />
+              <mxPoint x="60" y="59" />
             </Array>
           </mxGeometry>
         </mxCell>
