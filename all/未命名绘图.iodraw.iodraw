@@ -98,8 +98,11 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-55" value="在测试脚本最后启动ssh连接、网络ip获取等进程&lt;div&gt;&lt;div&gt;上报请求，唤醒自动化后续流程&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="320" width="310" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-61" target="t0p8CJE-LMbZ0rTMlWHT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-61" value="获取到测试运行文件，进行测试结果处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="460" width="220" height="60" as="geometry" />
+          <mxGeometry x="150" y="460" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
