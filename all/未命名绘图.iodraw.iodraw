@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-40" value="准备一个可以远程连接的设备，连接之后对设备进行升级" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="-140" width="210" height="80" as="geometry" />
+          <mxGeometry x="204" y="-130" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="t0p8CJE-LMbZ0rTMlWHT-40">
           <mxGeometry relative="1" as="geometry">
@@ -119,8 +119,14 @@
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-41" value="通过编译型号使用指定命令和环境来编译版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="-250" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t0p8CJE-LMbZ0rTMlWHT-47" target="t0p8CJE-LMbZ0rTMlWHT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-47" value="升级成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="-20" width="180" height="80" as="geometry" />
+          <mxGeometry x="219" y="-20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t0p8CJE-LMbZ0rTMlWHT-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="249" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
