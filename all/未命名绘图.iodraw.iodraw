@@ -99,7 +99,7 @@
           <mxGeometry x="155" y="320" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t0p8CJE-LMbZ0rTMlWHT-61" value="获取到测试运行文件，进行测试结果处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="460" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
